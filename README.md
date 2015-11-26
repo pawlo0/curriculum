@@ -1,0 +1,1 @@
+Hi! Just my Curriculum Vitae while appling html, css and javascritp.
