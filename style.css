@@ -1,0 +1,33 @@
+.darkblue{
+    background-color: #4682B4;
+    padding-top:50px;
+}
+
+.light-bk{
+    background-color:#E0E0E0;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.small-img {
+    max-height:200px;
+}
+
+.white-bk {
+    padding-top:15px;
+}
+
+.btn {
+    white-space: normal;
+    text-align: center;
+}
+.date {
+    background-color:#4682B4;
+    text-align: center;
+    color: white;
+}
+
+.btn-primary{
+    background-color:#4682B4;
+}
+
